@@ -1,0 +1,7 @@
+ - config-4.9.97_Stock-Kirin970: 57637ca4cef7779f4693ae2c3540351da7997c7c
+ - config-4.9.97_Stock-ALP-L09-B159: 76293f20474491857c0eef355947840da118554f
+ - config-4.9.97_diff_Stock-ALP-L09-B159__Stock-Kirin970.diff: 032b060838f6814a56963015c95596ec13146203
+ - config-4.9.97_Stock-Kirin970-Customized-v30: 71e45dce3b707f15273c5bf12661e0fd45894c04
+ - config-4.9.97_Stock-Kirin970-Customized-v31: b256cdafbcde9c25a2d5612994fa2f94b809c093
+ - config-4.9.97_diff_Stock-Kirin970__Customized-v30.diff: 1c4fa6ac1c3edc91ba9ccbb31dcd2a83c9601115
+ - config-4.9.97_diff_Stock-Kirin970__Customized-v31.diff: 9bd664c3c684913335d457e38578777c33812b23
