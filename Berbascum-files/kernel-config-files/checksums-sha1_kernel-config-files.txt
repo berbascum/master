@@ -5,3 +5,4 @@
  - config-4.9.97_Stock-Kirin970-Customized-v31: b256cdafbcde9c25a2d5612994fa2f94b809c093
  - config-4.9.97_diff_Stock-Kirin970__Customized-v30.diff: 1c4fa6ac1c3edc91ba9ccbb31dcd2a83c9601115
  - config-4.9.97_diff_Stock-Kirin970__Customized-v31.diff: 9bd664c3c684913335d457e38578777c33812b23
+ - config-4.9.97_diff_Customized-v30__Customized-v31.diff: 4ade8d978604939285854316e88b48ff5d1a8317
